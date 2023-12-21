@@ -8,7 +8,7 @@ body {
 }
 
 button {
-	cursor: pointer !important;
+	cursor: po 'Inter' !important;
 }
 
 a {
@@ -91,7 +91,7 @@ a {
 .title {
 	color: #191847;
 	/* text-4xl */
-	font-family: Inter;
+	font-family: 'Inter';
 	font-size: 36px;
 	font-style: normal;
 	font-weight: 700;
@@ -115,7 +115,7 @@ a {
 	width: 100%;
 	display: flex;
 	flex-wrap: wrap;
-	font-family: Inter, 'Courier New', Courier, monospace;
+	font-family: 'Inter', 'Courier New', Courier, monospace;
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 400;
@@ -150,7 +150,7 @@ a {
 	box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1),
 		0px 2px 4px -1px rgba(0, 0, 0, 0.06);
 	color: #fff;
-	font-family: Inter, 'Courier New', Courier, monospace;
+	font-family: 'Inter', 'Courier New', Courier, monospace;
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 700;
@@ -160,7 +160,7 @@ a {
 
 .notice {
 	color: #767e9d;
-	font-family: Inter, 'Courier New', Courier, monospace;
+	font-family: 'Inter', 'Courier New', Courier, monospace;
 	font-size: 12px;
 	font-style: normal;
 	font-weight: 400;
@@ -172,7 +172,7 @@ a {
 .topQuestion {
 	color: #191847;
 	/* line-height/1.5 */
-	font-family: Inter, 'Courier New', Courier, monospace;
+	font-family: 'Inter', 'Courier New', Courier, monospace;
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 700;
@@ -184,7 +184,7 @@ a {
 .proposedSolution {
 	color: #191847;
 	/* line-height/1.625 */
-	font-family: Inter, 'Courier New', Courier, monospace;
+	font-family: 'Inter', 'Courier New', Courier, monospace;
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 400;
@@ -196,7 +196,7 @@ a {
 .link {
 	color: #0047ff;
 	/* line-height/1.625 */
-	font-family: Inter, 'Courier New', Courier, monospace;
+	font-family: 'Inter', 'Courier New', Courier, monospace;
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 400;
@@ -251,7 +251,7 @@ a {
 .goon {
 	color: #767e9d;
 	/* text-xs bold/line-height/1.33 */
-	font-family: Inter, 'Courier New', Courier, monospace;
+	font-family: 'Inter', 'Courier New', Courier, monospace;
 	font-size: 12px;
 	font-style: normal;
 	font-weight: 700;
@@ -267,7 +267,7 @@ a {
 
 .footerNotice {
 	color: #767e9d;
-	font-family: Inter, 'Courier New', Courier, monospace;
+	font-family: 'Inter', 'Courier New', Courier, monospace;
 	font-size: 12px;
 	font-style: normal;
 	font-weight: 400;
@@ -277,7 +277,7 @@ a {
 .boldNotice {
 	color: #767e9d;
 	/* text-xs bold/line-height/1.33 */
-	font-family: Inter, 'Courier New', Courier, monospace;
+	font-family: 'Inter', 'Courier New', Courier, monospace;
 	font-size: 12px;
 	font-style: normal;
 	font-weight: 700;
@@ -287,7 +287,7 @@ a {
 .footerFinalNotice {
 	color: #767e9d;
 	/* line-height/1.33 */
-	font-family: Inter, 'Courier New', Courier, monospace;
+	font-family: 'Inter', 'Courier New', Courier, monospace;
 	font-size: 12px;
 	font-style: normal;
 	font-weight: 400;
